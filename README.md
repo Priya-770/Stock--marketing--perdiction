@@ -1,2 +1,2 @@
 # CodeAlpha_Project_Name
-my project about machine learning
+my project about stack price predictions using machine learning
