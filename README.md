@@ -3,9 +3,11 @@ stack price predictions using machine learning
 stack predictions
             jupyter\python\packege 
             Data Collection
+            
 1.API Access: 
 
 Use financial data APIs like Alpha Vantage, Yahoo Finance, or Quandl to fetch historical stock price data. For example, using yfinance library in Python to fetch data from Yahoo Finance.
+
 2. Data Preprocessing
 
 Cleaning Data: Handle missing values, adjust for stock splits or dividends if necessary.
